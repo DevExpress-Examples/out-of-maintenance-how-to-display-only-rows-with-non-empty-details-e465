@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/WindowsApplication28/Form1.cs) (VB: [Form1.vb](./VB/WindowsApplication28/Form1.vb))
+* [MyCollection.cs](./CS/WindowsApplication28/MyCollection.cs) (VB: [MyCollection.vb](./VB/WindowsApplication28/MyCollection.vb))
+* [Program.cs](./CS/WindowsApplication28/Program.cs) (VB: [Program.vb](./VB/WindowsApplication28/Program.vb))
+<!-- default file list end -->
 # How to display only rows with non-empty details
 
 
